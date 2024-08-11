@@ -1,0 +1,5 @@
+* Configuración de CI/CD para pruebas y despliegue automático.
+
+## Configuración de Monorepo (opcional):
+
+* Utilizando herramientas como Lerna para gestionar múltiples paquetes dentro de un mismo repositorio, permitiendo publicar hooks individualmente y como parte de una colección.
