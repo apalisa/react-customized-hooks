@@ -21,6 +21,9 @@ Welcome to the documentation of `react-customized-hooks`. This package provides 
 ### State and Effects Hooks
 `useToggle`: Custom hook that provides a boolean state and a function to toggle its value.
 
+### Fetching Hooks
+`useFetch`: Custom hook for performing HTTP requests and handling loading and error states.
+
 ***Please refer to the sidebar for detailed documentation of each hook.***
 
 -----------------------------------------------------------------------------------------------------
@@ -43,7 +46,7 @@ Welcome to the documentation of `react-customized-hooks`. This package provides 
 
 ### Hooks de Fetching y API
 
-- [ ] `useFetch`: Para realizar peticiones HTTP de manera sencilla.  
+- [x] ~~`useFetch`~~: Para realizar peticiones HTTP de manera sencilla.  
 - [ ] `useAxios`: Integración con Axios para peticiones más complejas.  
 - [ ] `useWebSocket`: Para manejar conexiones WebSocket.  
 
